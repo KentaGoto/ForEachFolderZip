@@ -4,6 +4,7 @@
 ファイル及びフォルダをドラッグアンドドロップする。
 
 ## Requirements
+- Windows
 - 7-zip  
 
 **Note**  
