@@ -15,3 +15,6 @@ set ZIP_PATH="C:\Program Files\7-Zip\7z.exe"
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
